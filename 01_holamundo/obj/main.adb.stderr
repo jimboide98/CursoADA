@@ -1,0 +1,20 @@
+main.adb:36:04: error: no candidate interpretations match the actuals:
+main.adb:36:04: error: missing argument for parameter "Item" in call to "Get" declared at a-tiinio.ads:90, instance at a-inteio.ads:18
+main.adb:36:04: error: missing argument for parameter "Item" in call to "Get" declared at a-tiinio.ads:51, instance at a-inteio.ads:18
+main.adb:36:04: error: missing argument for parameter "Item" in call to "Get" declared at a-textio.ads:449
+main.adb:36:04: error: missing argument for parameter "Item" in call to "Get" declared at a-textio.ads:376
+main.adb:36:08: error: expected type "Standard.Integer"
+main.adb:36:08: error: found private type "Ada.Strings.Unbounded.Unbounded_String"
+main.adb:36:08: error:   ==> in call to "Get" at a-tiinio.ads:59, instance at a-inteio.ads:18
+main.adb:36:08: error:   ==> in call to "Get" at a-textio.ads:452
+main.adb:36:08: error:   ==> in call to "Get" at a-textio.ads:379
+main.adb:37:04: error: no candidate interpretations match the actuals:
+main.adb:37:04: error: missing argument for parameter "Item" in call to "Put" declared at a-tiinio.ads:97, instance at a-inteio.ads:18
+main.adb:37:04: error: missing argument for parameter "Item" in call to "Put" declared at a-tiinio.ads:68, instance at a-inteio.ads:18
+main.adb:37:04: error: missing argument for parameter "Item" in call to "Put" declared at a-textio.ads:457
+main.adb:37:04: error: missing argument for parameter "Item" in call to "Put" declared at a-textio.ads:384
+main.adb:37:08: error: expected type "Standard.Integer"
+main.adb:37:08: error: found private type "Ada.Strings.Unbounded.Unbounded_String"
+main.adb:37:08: error:   ==> in call to "Put" at a-tiinio.ads:80, instance at a-inteio.ads:18
+main.adb:37:08: error:   ==> in call to "Put" at a-textio.ads:463
+main.adb:37:08: error:   ==> in call to "Put" at a-textio.ads:390
