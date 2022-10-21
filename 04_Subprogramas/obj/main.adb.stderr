@@ -1,0 +1,8 @@
+main.adb:58:10: error: no candidate interpretations match the actuals:
+main.adb:58:10: error: missing argument for parameter "Item" in call to "Put" declared at a-textio.ads:457
+main.adb:58:10: error: missing argument for parameter "Item" in call to "Put" declared at a-textio.ads:384
+main.adb:58:19: error: unmatched actual "Exp" in call
+main.adb:60:10: error: no candidate interpretations match the actuals:
+main.adb:60:10: error: missing argument for parameter "Item" in call to "Put" declared at a-textio.ads:457
+main.adb:60:10: error: missing argument for parameter "Item" in call to "Put" declared at a-textio.ads:384
+main.adb:60:19: error: unmatched actual "Exp" in call
