@@ -1,6 +1,7 @@
 procedure Main is
 
 begin
-   --  Insert code here.
-   null;
+
+   function Calcula_Aceleracion (Velocidad - Velocidad_Final)/ Aceleracion;
+
 end Main;

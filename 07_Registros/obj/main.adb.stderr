@@ -1,0 +1,2 @@
+main.adb:23:39: error: expected type "Edad" defined at line 4
+main.adb:23:39: error: found type "Standard.Integer"
