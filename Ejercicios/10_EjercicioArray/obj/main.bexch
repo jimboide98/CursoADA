@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\jcalurano\OneDrive - Indra\Escritorio\IndraOctubre\Ejercicios\10_EjercicioArray\ejercicioarray.gpr
+20221026092652 e6243f3823034ccb2f0036c2e3b74c2c
+[BOUND OBJECT FILES]
+C:\Users\jcalurano\OneDrive - Indra\Escritorio\IndraOctubre\Ejercicios\10_EjercicioArray\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\jcalurano\OneDrive - Indra\Escritorio\IndraOctubre\Ejercicios\10_EjercicioArray\obj\
+-LC:\Users\jcalurano\OneDrive - Indra\Escritorio\IndraOctubre\Ejercicios\10_EjercicioArray\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
